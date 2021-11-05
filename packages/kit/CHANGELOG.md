@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.0.0-next.195
+
+### Patch Changes
+
+- [fix] increase scroll debounce timeout ([#2749](https://github.com/sveltejs/kit/pull/2749))
+
 ## 1.0.0-next.194
 
 ### Patch Changes
